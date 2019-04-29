@@ -6,6 +6,7 @@ npm i
 - Run JSON-server:
 ```bash
 npm run server
+```
 - Start the project
 ```bash
 npm start
