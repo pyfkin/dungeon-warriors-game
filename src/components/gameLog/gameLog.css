@@ -1,0 +1,16 @@
+.log-header{
+    margin: 20px 0 0;
+    text-align: right;
+    color: #0058b7;
+}
+
+.log-text,
+.log-movesCount{
+    font-size: 14px;
+    text-align: right;
+    color: #0058b7;
+}
+
+.log-text{
+    margin-bottom: 0;
+}

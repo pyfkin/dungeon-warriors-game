@@ -1,0 +1,18 @@
+{
+  "playerList": [
+    {
+      "name": "Kirill",
+      "steps": 398,
+      "difficulty": "Easy",
+      "score": 398,
+      "id": 1
+    },
+    {
+      "name": "dddd",
+      "steps": 310,
+      "difficulty": "Easy",
+      "score": 310,
+      "id": 2
+    }
+  ]
+}

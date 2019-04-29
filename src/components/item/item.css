@@ -1,0 +1,51 @@
+.itemLine div{
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border: 1px solid black;
+
+
+    background-color: #5dc1ed;
+}
+
+svg{
+    width: 20px;
+    height: 20px;
+}
+
+.pole{
+    /*background-color: #e2e2e2;*/
+}
+
+.itemLine .wall{
+    background-color: #292929;
+}
+
+.skill{
+    /*background-color: #dada00;*/
+}
+
+.itemLine .certificate{
+    /*background-color: rgb(255, 170, 0);*/
+}
+
+.bossWallSmall{
+    /*background-color: rgb(255, 255, 255);*/
+}
+
+.bossWallBig{
+    /*background-color: rgb(255, 255, 255);*/
+}
+
+.boss{
+    /*background-color: #ff0000;*/
+}
+
+/*background-color: #bfbfbf;*/
+.itemLine .player{
+    background-color: #00ff00;
+}
+
+.medecine{
+    /*background-color: rgba(255, 0, 255, 0.31);*/
+}

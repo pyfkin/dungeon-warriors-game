@@ -1,0 +1,11 @@
+.panel{
+}
+
+.game-rules{
+    font-family: 'Vollkorn', serif;
+    line-height: 1.4;
+    font-size: 14px;
+    margin-top: 25px;
+    text-align: left;
+    color: #0058b7;
+}

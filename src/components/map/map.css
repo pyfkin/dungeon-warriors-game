@@ -1,0 +1,11 @@
+.map{
+    display: block;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.itemLine{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

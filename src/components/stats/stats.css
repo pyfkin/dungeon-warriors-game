@@ -1,0 +1,30 @@
+.user-stats{
+    padding-top: 50px;
+    padding-left: 25px;
+    margin-bottom: 60px;
+    text-align: left;
+}
+
+.user-stats .player-name{
+    font-family: 'Kelly+Slab', cursive;
+    text-decoration: underline;
+    font-size: 22px;
+    color: red;
+}
+
+.user-stats .player-header{
+    margin-bottom: 15px;
+}
+
+.user-stats p{
+    margin-bottom: 5px;
+    color: #0058b7;
+}
+
+.item-icons{
+    padding-left: 25px;
+    text-align: left;
+    color: #0058b7;
+    font-family: 'Times New Roman', sans-serif;
+    font-size: 12px;
+}
